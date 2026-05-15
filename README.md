@@ -388,3 +388,11 @@ streamlit run app.py
 - 예측 결과에 대한 상세한 설명 기능 추가
 - 사용자별 예측 기록 저장 기능 추가
 - Streamlit Cloud 또는 Docker 기반 배포
+
+---
+
+## 프로젝트 상세 자료
+
+프로젝트의 전체 설명 자료는 아래 링크에서 확인할 수 있습니다.
+
+- [설명 자료 보기](https://drive.google.com/file/d/1P1DUhgvUn9ybQ9OTNr_S9kmGivVs2EGx/view?usp=drive_link)
